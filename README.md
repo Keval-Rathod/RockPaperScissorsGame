@@ -1,1 +1,2 @@
-# Rock Paper Scissor Gaem
+# Rock Paper Scissor Game
+
